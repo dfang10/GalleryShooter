@@ -1,1 +1,3 @@
 # GalleryShooter
+
+Class assignment where we create a gallery shooter
